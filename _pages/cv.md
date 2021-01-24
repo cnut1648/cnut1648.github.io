@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-This is my [Curriculum Vitae [PDF]](jiashuxu%20resume.pdf)
+This is my [Curriculum Vitae [PDF]](https://cnut1648.github.io/files/jiashuxu%20resume.pdf)
