@@ -7,4 +7,4 @@ date: 2020-10-03
 ---
 Proof of BP algorithm for conv layers
 
-[Download paper here](http://cnut1648.github.io/files/BP_for_Conv.pdf)
+[Download paper here](http://cnut1648.github.io/files/writings/BP_for_Conv.pdf)
