@@ -14,6 +14,14 @@ at USC.
 My research interests include Machine Learning, Deep Learning, Natural Language Processing, Computer
 Vision and Reinforcement Learning.
 
+
+This is my girlfriend and me
+
+<p align="center">
+  <img src="https://cnut1648.github.io/images/cc_and_me.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
+
 # Education
 
 - University of Southern California
@@ -30,3 +38,4 @@ Vision and Reinforcement Learning.
   
   2019 Summer (UCEAP)
   
+
