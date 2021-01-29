@@ -3,7 +3,7 @@ title: "Test for randomness"
 collection: writings
 permalink: /writings/2020-11-03-Test-for-randomness
 excerpt: 'Explains a few methods for testing randomness'
-date: 2020-02-15
+date: 2020-11-03
 ---
 Explains a few methods for testing randomness.
 
