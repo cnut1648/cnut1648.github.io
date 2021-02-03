@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-This is my [Curriculum Vitae [PDF]](https://cnut1648.github.io/files/jiashuxu%20resume.pdf)
+{% include base_path %} This is my [Curriculum Vitae
+[PDF]](https://cnut1648.github.io/files/Jiashu Xu.Resume.pdf)
