@@ -27,17 +27,14 @@ social: true # includes social icons at the bottom of the page
 
 Hi there 👋
 
-I am a research scientist at NVIDIA. 
-I was a master student at [Harvard University](https://www.harvard.edu/) studying computer science.
-Previously I double majored in applied mathematics and computer science at [USC](https://www.usc.edu/).
-I had the honor to work with Prof. [Hima Lakkaraju](https://himalakkaraju.github.io/) at Harvard SEAS, and Prof. [Muhao Chen](https://muhaochen.github.io/) at USC.
-I have spent a bit of time as research intern at Amazon Science team working on LLM and as student collaborator at Microsoft Research working on synthetic data generation.
+I am a research scientist at [NVIDIA Cosmos Team](https://research.nvidia.com/labs/dir/) [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/Cosmos?style=social)](https://github.com/NVIDIA/Cosmos) working on generative model pre/post-training and physical ai.
+Before joining NVIDIA, I completed my Master's at [Harvard University](https://www.harvard.edu/) in Computer Science, following a double major in Applied Mathematics and Computer Science at [USC](https://www.usc.edu/).
+I have spent a bit of time as research intern at [Amazon Science](https://www.amazon.science/) working on LLM and at [Microsoft Research](https://www.microsoft.com/en-us/research/) working on synthetic data generation.
 
-My current research interests is in `Reliable AI`. Particularly,
-
-- AI safety [[1](https://arxiv.org/pdf/2305.14710.pdf), [2](https://arxiv.org/pdf/2311.09763.pdf), [3](https://arxiv.org/abs/2401.12255)]
-- Training AI that excels in low-resource regime, through indirect supervision [[1](https://aclanthology.org/2023.acl-long.138.pdf), [2](https://aclanthology.org/2022.naacl-main.190.pdf)] or synthetic data [[3](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830463.pdf), [4](https://arxiv.org/abs/2206.09592), [5](https://arxiv.org/abs/2309.05956), [6](https://arxiv.org/pdf/2312.14216.pdf)]
-- Explanation and how we can learn from explanation [[1](https://proceedings.neurips.cc/paper/2021/file/9752d873fa71c19dc602bf2a0696f9b5-Paper.pdf), [2](https://www.nature.com/articles/s41746-022-00738-y), [3](https://www.nature.com/articles/s41746-022-00738-y)]
+My current research interests is in `Generative Models' Post-training`. Particularly,
+- Post-train diffusion models [[1](https://arxiv.org/pdf/2511.00062), [2](https://arxiv.org/pdf/2501.03575), [3](https://arxiv.org/pdf/2503.14492), [4](https://arxiv.org/pdf/2411.07135)] and VLMs [[5](https://arxiv.org/pdf/2503.15558), [6](https://blogs.nvidia.com/blog/real-time-3d-generative-ai-research-siggraph-2024/?ncid=so-twit-353134-vt36&linkId=100000277255797)] w/ SFT and RL [[7](https://arxiv.org/pdf/2512.04332)]
+- Reliable model against malicious attacks [[8](https://cnut1648.github.io/Model-Fingerprint/), [9](https://cnut1648.github.io/instruction-attack/), [10](https://arxiv.org/abs/2311.09763)]
+- Excels in low-resource regimes via synthetic data generation [[11](https://behavior-vision-suite.github.io/), [12](https://briannlongzhao.github.io/DreamDistribution/), [13](https://arxiv.org/abs/2309.05956)]
 
 This is my girlfriend 😍[Carmen](https://www.linkedin.com/in/carmen-liang/) and me
 

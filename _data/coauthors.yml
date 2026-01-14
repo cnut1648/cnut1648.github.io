@@ -1,14 +1,23 @@
 "Chan":
   - firstname: ["Aaron"]
     url: https://aarzchan.com/
+"Han":
+  - firstname: ["Jiaqi"]
+    url: https://hanjq17.github.io/
 "Ma":
   - firstname: ["Runzhuo"]
     url: https://scholar.google.com/citations?user=lrFwJtAAAAAJ&hl=en
   - firstname: ["Mingyu Derek"]
     url: https://derek.ma/
+"Mao":
+  - firstname: ["Hanzi"]
+    url: https://hanzimao.me/
 "Huang":
   - firstname: ["James Y."]
     url: https://jyhuang36.github.io/
+"Zheng":
+  - firstname: ["Kaiwen"]
+    url: https://zhengkw18.github.io/
 "Li":
   - firstname: ["Bangzheng", "Bangzheng*"]
     url: https://scholar.google.com/citations?user=UcegV-cAAAAJ&hl=en
@@ -18,12 +27,22 @@
     url: https://www.chengshuli.me/
   - firstname: ["Yunzhu"]
     url: https://yunzhuli.github.io/
+  - firstname: ["Puheng"]
+    url: https://leo-li.com/
 "Fei-Fei":
   - firstname: ["Li"]
     url: https://profiles.stanford.edu/fei-fei-li
+"Feng":
+  - firstname: ["Liang"]
+    url: https://research.nvidia.com/labs/avg/author/liang-feng/
 "Chen":
   - firstname: ["Muhao"]
     url: https://muhaochen.github.io/
+  - firstname: ["Huayu"]
+    url: https://chendrag.github.io/
+"Ermon":
+  - firstname: ["Stefano"]
+    url: https://cs.stanford.edu/~ermon/
 "Gupta":
   - firstname: ["Tanishq"]
     url: https://scholar.google.com/citations?user=wPYXV7gAAAAJ&hl=en
@@ -36,6 +55,15 @@
 "Long":
   - firstname: ["Boyuan"]
     url: https://www.linkedin.com/in/boyuan-long-48a5ab16b/
+"Ye":
+  - firstname: ["Haotian"]
+    url: https://haotianye.com/
+"Hao":
+  - firstname: ["Zekun"]
+    url: https://zekunhao.com/
+"Chattopadhyay":
+  - firstname: ["Prithvijit"]
+    url: https://prithv1.xyz/
 "Joshi":
   - firstname: ["Neel"]
     url: https://neelj.com/
@@ -62,7 +90,7 @@
     url: https://researchers.cedars-sinai.edu/Andrew.Hung
 "Tang":
   - firstname: ["Yihe"]
-    url: https://www.linkedin.com/in/yihetang/
+    url: https://tangyihe.com/
 "Gokmen":
   - firstname: ["Cem"]
     url: https://www.cemgokmen.com/
@@ -102,6 +130,8 @@
 "Yang":
   - firstname: ["Yifan"]
     url: https://www.microsoft.com/en-us/research/people/yifanyang/
+  - firstname: ["Dinghao"]
+    url: https://dinghow.site/
 "Yan":
   - firstname: ["Jun"]
     url: https://junyann.github.io/
@@ -110,9 +140,16 @@
     url: https://qinliu9.github.io/
   - firstname: ["Miao"]
     url: https://aptx4869lm.github.io/
+  - firstname: ["Sheng"]
+    url: https://shengliu66.github.io/
+  - firstname: ["Ming-Yu"]
+    url: https://mingyuliu.net/
+"Liao":
+  - firstname: ["Maosheng"]
+    url: https://github.com/foreverlms
 "Mo":
   - firstname: ["Wenjie"]
-    url: https://www.linkedin.com/in/jacky-mo-b5827a213/
+    url: https://jacky-mo-1111.github.io/
 "Koh":
   - firstname: ["Pang Wei"]
     url: https://koh.pw/
@@ -125,6 +162,9 @@
 "Aydin":
   - firstname: ["Arman"]
     url: https://www.linkedin.com/in/arman-aydin-915035185/
+"Bai":
+  - firstname: ["Junjie"]
+    url: https://scholar.google.com/citations?user=gSB8_64AAAAJ&hl=en
 "Anvari":
   - firstname: ["Mona"]
     url: https://www.linkedin.com/in/mona-anvari/
@@ -154,6 +194,14 @@
     url: https://pzzhang.github.io/pzzhang/
   - firstname: ["Ruohan"]
     url: https://ai.stanford.edu/~zharu/
+  - firstname: ["Qinsheng"]
+    url: https://qsh-zh.github.io/
 "Wu":
   - firstname: ["Jiajun"]
     url: https://jiajunwu.com/
+"Tong":
+  - firstname: ["Terry"]
+    url: https://scholar.google.com/citations?user=UE4CnZcAAAAJ&hl=en
+"Zou":
+  - firstname: ["James"]
+    url: https://www.james-zou.com/

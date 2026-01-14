@@ -37,3 +37,18 @@
 
 "COLM":
   url: https://colmweb.org/
+
+"EMNLP":
+  url: https://aclanthology.org/venues/emnlp/
+
+"SIGGRAPH":
+  url: https://www.siggraph.org/
+
+"Allerton":
+  url: https://allerton.csl.illinois.edu/
+
+"White Paper":
+  url: https://en.wikipedia.org/wiki/White_paper
+
+"ICLR":
+  url: https://iclr.cc/

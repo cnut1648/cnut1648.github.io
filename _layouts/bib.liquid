@@ -50,6 +50,9 @@
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->
     <div class="author">
+      {% if entry.author_display %}
+        {{ entry.author_display }}
+      {% else %}
       {% assign author_array_size = entry.author_array | size %}
 
       {% assign author_array_limit = author_array_size %}
@@ -131,6 +134,7 @@
           {{- more_authors_hide -}}
         </span>
       {% endif %}
+      {% endif %}
     </div>
 
     <!-- Journal/Book title and date -->
@@ -164,7 +168,7 @@
     {% assign entrytype_text = entrytype | strip_html | strip %}
     {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
     <div class="periodical">
-      {{ periodical | strip }}
+      {{ periodical | strip }}{% if entry.award_name %} <strong style="color: red;">({{ entry.award_name }})</strong>{% endif %}
     </div>
     <div class="periodical">
       {{ entry.note | strip }}
@@ -172,25 +176,17 @@
 
     <!-- Links/Buttons -->
     <div class="links">
-      {% if entry.award %}
-        <a class="award btn btn-sm z-depth-0" role="button">
-          {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awareded{% endif -%}
-        </a>
-      {% endif %}
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-      {% endif %}
-      {% if entry.arxiv %}
-        <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
-      {% if entry.html %}
-        {% if entry.html contains '://' %}
-          <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+      {% if entry.project_page %}
+        {% if entry.project_page contains '://' %}
+          <a href="{{ entry.project_page }}" class="btn btn-sm z-depth-0" role="button">Project Page</a>
         {% else %}
-          <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          <a href="{{ entry.project_page | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Project Page</a>
         {% endif %}
       {% endif %}
       {% if entry.pdf %}
@@ -292,13 +288,6 @@
           {% endif %}
         </div>
       {% endif %}
-    {% endif %}
-
-    {% if entry.award %}
-      <!-- Hidden Award block -->
-      <div class="award hidden d-print-inline">
-        <p>{{ entry.award | markdownify }}</p>
-      </div>
     {% endif %}
 
     {% if entry.abstract %}
