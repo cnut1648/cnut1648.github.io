@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi there 👋
 
-I am a research scientist at [NVIDIA Cosmos Team](https://research.nvidia.com/labs/dir/) [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/Cosmos?style=social)](https://github.com/NVIDIA/Cosmos) working on generative model pre/post-training and physical ai.
+I am a research scientist at [NVIDIA Cosmos Team](https://research.nvidia.com/labs/dir/) [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/Cosmos?style=social)](https://github.com/NVIDIA/Cosmos) working on generative model pre/post-training and physical AI.
 Before joining NVIDIA, I completed my Master's at [Harvard University](https://www.harvard.edu/) in Computer Science, following a double major in Applied Mathematics and Computer Science at [USC](https://www.usc.edu/).
 I have spent a bit of time as research intern at [Amazon Science](https://www.amazon.science/) working on LLM and at [Microsoft Research](https://www.microsoft.com/en-us/research/) working on synthetic data generation.
 
