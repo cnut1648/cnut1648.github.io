@@ -28,10 +28,10 @@ social: true # includes social icons at the bottom of the page
 Hi there 👋
 
 I am a research scientist at [NVIDIA Cosmos Team](https://research.nvidia.com/labs/dir/) [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/Cosmos?style=social)](https://github.com/NVIDIA/Cosmos) working on generative model pre/post-training and physical AI.
-Before joining NVIDIA, I completed my Master's at [Harvard University](https://www.harvard.edu/) in Computer Science, following a double major in Applied Mathematics and Computer Science at [USC](https://www.usc.edu/).
+Before joining NVIDIA, I got my Master's degree in Computer Science at [Harvard University](https://www.harvard.edu/), and a double major in Applied Mathematics and Computer Science at [USC](https://www.usc.edu/).
 I have spent a bit of time as research intern at [Amazon Science](https://www.amazon.science/) working on LLM and at [Microsoft Research](https://www.microsoft.com/en-us/research/) working on synthetic data generation.
 
-My current research interests is in `Generative Models' Post-training`. Particularly,
+My current research interests is in `VLM/LLM and multi-modal generative models`. Particularly,
 
 - Post-train diffusion models [[1](https://arxiv.org/pdf/2511.00062), [2](https://arxiv.org/pdf/2501.03575), [3](https://arxiv.org/pdf/2503.14492), [4](https://arxiv.org/pdf/2411.07135)] and VLMs [[5](https://arxiv.org/pdf/2503.15558), [6](https://blogs.nvidia.com/blog/real-time-3d-generative-ai-research-siggraph-2024/?ncid=so-twit-353134-vt36&linkId=100000277255797)] w/ SFT and RL [[7](https://arxiv.org/pdf/2512.04332)]
 - Reliable model against malicious attacks [[8](https://cnut1648.github.io/Model-Fingerprint/), [9](https://cnut1648.github.io/instruction-attack/), [10](https://arxiv.org/abs/2311.09763)]
