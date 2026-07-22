@@ -9,6 +9,10 @@
     url: https://scholar.google.com/citations?user=lrFwJtAAAAAJ&hl=en
   - firstname: ["Mingyu Derek"]
     url: https://derek.ma/
+  - firstname: ["Qianli"]
+    url: https://qianlim.github.io/
+  - firstname: ["Wei-Chiu"]
+    url: https://www.cs.cornell.edu/~weichiu
 "Mao":
   - firstname: ["Hanzi"]
     url: https://hanzimao.me/
@@ -29,6 +33,10 @@
     url: https://yunzhuli.github.io/
   - firstname: ["Puheng"]
     url: https://leo-li.com/
+  - firstname: ["Xuan"]
+    url: https://xuan-li.github.io/
+  - firstname: ["Zhaoshuo"]
+    url: https://mli0603.github.io/
 "Fei-Fei":
   - firstname: ["Li"]
     url: https://profiles.stanford.edu/fei-fei-li
@@ -97,6 +105,8 @@
 "Song":
   - firstname: ["Yale"]
     url: https://people.csail.mit.edu/yalesong/home/
+  - firstname: ["Shuran"]
+    url: https://shurans.github.io/
 "Zhao":
   - firstname: ["Brian Nlong"]
     url: https://scholar.google.com/citations?user=IhqFMeUAAAAJ&hl=en
@@ -110,6 +120,8 @@
     url: https://xinw.ai/
   - firstname: ["Jiongxiao"]
     url: https://jiongxiao-wang.github.io/
+  - firstname: ["Shenlong"]
+    url: https://shenlong.web.illinois.edu/
 "Xiao":
   - firstname: ["Chaowei"]
     url: https://xiaocw11.github.io/
@@ -205,3 +217,15 @@
 "Zou":
   - firstname: ["James"]
     url: https://www.james-zou.com/
+"Xia":
+  - firstname: ["Hongchi"]
+    url: https://xiahongchi.github.io/
+"Cui":
+  - firstname: ["Yin"]
+    url: https://ycui.me/
+"Lin":
+  - firstname: ["Tsung-Yi"]
+    url: https://tsungyilin.info/
+"Wei":
+  - firstname: ["Fangyin"]
+    url: https://weify627.github.io/

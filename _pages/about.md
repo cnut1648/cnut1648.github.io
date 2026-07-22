@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Scientist at NVIDIA
+subtitle: Member of Technical Staff
 
 profile:
   align: right
@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi there 👋
 
-I am a research scientist at [NVIDIA Cosmos Team](https://research.nvidia.com/labs/dir/) [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/Cosmos?style=social)](https://github.com/NVIDIA/Cosmos) working on generative model pre/post-training and physical AI.
+I am currently a member of technical staff at [SpaceXAI](https://x.ai/) Imagine team (try our model at [here](https://grok.com/imagine)!). Previously I was a research scientist at [NVIDIA Cosmos Team](https://research.nvidia.com/labs/dir/) [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/Cosmos?style=social)](https://github.com/NVIDIA/Cosmos) working on generative model pre/post-training and physical AI.
 Before joining NVIDIA, I got my Master's degree in Computer Science at [Harvard University](https://www.harvard.edu/), and a double major in Applied Mathematics and Computer Science at [USC](https://www.usc.edu/).
 I have spent a bit of time as research intern at [Amazon Science](https://www.amazon.science/) working on LLM and at [Microsoft Research](https://www.microsoft.com/en-us/research/) working on synthetic data generation.
 
